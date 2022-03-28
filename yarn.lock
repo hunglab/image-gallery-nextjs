@@ -323,6 +323,11 @@
   dependencies:
     "node-fetch" "2.6.7"
 
+"cssesc@^3.0.0":
+  "integrity" "sha512-/Tb/JcjK111nNScGob5MNtsntNM1aCNUDipB/TkwZFhyDrrE47SOx/18wF2bbjgc3ZzCSKW1T5nt5EbFoAz/Vg=="
+  "resolved" "https://registry.npmjs.org/cssesc/-/cssesc-3.0.0.tgz"
+  "version" "3.0.0"
+
 "csstype@^3.0.2":
   "integrity" "sha512-sa6P2wJ+CAbgyy4KFssIb/JNMLxFvKF1pCYCSXS8ZMuqZnMsrxqI2E5sPyoTpxoPU/gVZMzr2zjOfg8GIZOMsw=="
   "resolved" "https://registry.npmjs.org/csstype/-/csstype-3.0.11.tgz"
